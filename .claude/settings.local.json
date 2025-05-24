@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(zola init:*)",
+      "Bash(mkdir:*)",
+      "Bash(git clone:*)",
+      "Bash(ls:*)",
+      "Bash(rm:*)",
+      "Bash(mv:*)",
+      "Bash(rmdir:*)",
+      "Bash(cat:*)"
+    ],
+    "deny": []
+  }
+}
