@@ -1,6 +1,7 @@
 +++
 title = "About"
 path = "about"
+date = 2025-05-24
 +++
 
 # About mafterning.com
